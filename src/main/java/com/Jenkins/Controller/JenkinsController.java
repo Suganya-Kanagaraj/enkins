@@ -10,6 +10,6 @@ public class JenkinsController {
 
 	@GetMapping(value="/get3")
 	public String get() {
-		return "Hi Suganyafgf";
+		return "Hi Suganya";
 	}
 }
